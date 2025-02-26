@@ -1,0 +1,109 @@
+2025-02-25 18:11:20,794 - INFO - Application starting at: 2025-02-25 18:11:20
+2025-02-25 18:11:20,794 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:11:20,794 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:11:20,966 - INFO - QApplication initialized
+2025-02-25 18:11:20,967 - ERROR - Unexpected error occurred
+Traceback (most recent call last):
+  File "/Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup/main.py", line 36, in <module>
+    window = DirectoryWatchTab()
+NameError: name 'DirectoryWatchTab' is not defined
+2025-02-25 18:13:22,228 - INFO - Application starting at: 2025-02-25 18:13:22
+2025-02-25 18:13:22,228 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,228 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:13:22,387 - INFO - QApplication initialized
+2025-02-25 18:13:22,389 - DEBUG - Initializing DirectoryWatchTab
+2025-02-25 18:13:22,393 - DEBUG - QSplitter initialized
+2025-02-25 18:13:22,485 - DEBUG - Left widget added
+2025-02-25 18:13:22,489 - DEBUG - Right widget added
+2025-02-25 18:13:22,490 - DEBUG - DirectoryWatcher initialized for /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,491 - DEBUG - Updating directory list for path: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,491 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:22,492 - DEBUG - Updating tree view
+2025-02-25 18:13:22,499 - DEBUG - DirectoryWatchTab initialization complete
+2025-02-25 18:13:22,533 - INFO - Window displayed
+2025-02-25 18:13:22,533 - INFO - Qt Version: 
+2025-02-25 18:13:22,548 - DEBUG - Directory changed: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,548 - DEBUG - Updating directory list for path: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:27,250 - DEBUG - Checking for changes
+2025-02-25 18:13:27,250 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:32,035 - DEBUG - Checking for changes
+2025-02-25 18:13:32,036 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:37,034 - DEBUG - Checking for changes
+2025-02-25 18:13:37,035 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:38,477 - INFO - Application exiting with code: 0
+2025-02-25 18:17:30,381 - INFO - Application starting at: 2025-02-25 18:17:30
+2025-02-25 18:17:30,381 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:17:30,381 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:17:30,544 - INFO - QApplication initialized
+2025-02-25 18:17:30,545 - INFO - Initializing MainWindow
+2025-02-25 18:17:30,644 - INFO - All tabs initialized
+2025-02-25 18:17:30,671 - INFO - Main window displayed
+2025-02-25 18:17:30,671 - INFO - Qt Version: 
+2025-02-25 18:19:29,389 - INFO - Application exiting with code: 0
+2025-02-25 18:21:08,492 - INFO - Application starting at: 2025-02-25 18:21:08
+2025-02-25 18:21:08,492 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:21:08,492 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:21:08,659 - INFO - QApplication initialized
+2025-02-25 18:21:08,659 - INFO - Initializing MainWindow
+2025-02-25 18:21:08,748 - DEBUG - Initializing DirectoryWatchTab
+2025-02-25 18:21:09,048 - DEBUG - DirectoryWatcher initialized for /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:21:09,048 - DEBUG - Getting directory snapshot
+2025-02-25 18:21:09,048 - DEBUG - Updating tree view
+2025-02-25 18:21:09,056 - DEBUG - DirectoryWatchTab initialization complete
+2025-02-25 18:21:09,058 - INFO - All tabs initialized
+2025-02-25 18:21:09,089 - INFO - Main window displayed
+2025-02-25 18:21:09,089 - INFO - Qt Version: 
+2025-02-25 18:21:09,099 - DEBUG - Directory changed: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:21:09,099 - DEBUG - Updating directory list for path: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:21:14,063 - DEBUG - Checking for changes
+2025-02-25 18:21:14,063 - DEBUG - Getting directory snapshot
+2025-02-25 18:21:19,061 - DEBUG - Checking for changes
+2025-02-25 18:21:19,062 - DEBUG - Getting directory snapshot
+2025-02-25 18:21:24,062 - DEBUG - Checking for changes
+2025-02-25 18:21:24,063 - DEBUG - Getting directory snapshot
+2025-02-25 18:21:26,260 - INFO - Application exiting with code: 0
+2025-02-25 18:23:50,048 - INFO - Application starting at: 2025-02-25 18:23:50
+2025-02-25 18:23:50,048 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:23:50,048 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:23:50,213 - INFO - QApplication initialized
+2025-02-25 18:23:50,214 - INFO - Initializing MainWindow
+2025-02-25 18:23:50,571 - INFO - All tabs initialized
+2025-02-25 18:23:50,600 - INFO - Main window displayed
+2025-02-25 18:23:50,601 - INFO - Qt Version: 
+2025-02-25 18:26:05,655 - INFO - Application exiting with code: 0
+2025-02-25 18:26:15,563 - INFO - Application starting at: 2025-02-25 18:26:15
+2025-02-25 18:26:15,563 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:26:15,563 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:26:15,725 - INFO - QApplication initialized
+2025-02-25 18:26:15,725 - INFO - Initializing MainWindow
+2025-02-25 18:26:15,824 - INFO - All tabs initialized
+2025-02-25 18:26:15,851 - INFO - Main window displayed
+2025-02-25 18:26:15,851 - INFO - Qt Version: 
+2025-02-25 18:39:17,652 - INFO - Application exiting with code: 0
+2025-02-25 18:39:38,969 - INFO - Application starting at: 2025-02-25 18:39:38
+2025-02-25 18:39:38,969 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:39:38,969 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:39:39,136 - INFO - QApplication initialized
+2025-02-25 18:39:39,136 - INFO - Initializing MainWindow
+2025-02-25 18:39:39,498 - INFO - All tabs initialized
+2025-02-25 18:39:39,526 - INFO - Main window displayed
+2025-02-25 18:39:39,526 - INFO - Qt Version: 
+2025-02-25 18:43:32,852 - INFO - Application exiting with code: 0
+2025-02-25 18:43:51,788 - INFO - Application starting at: 2025-02-25 18:43:51
+2025-02-25 18:43:51,788 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:43:51,788 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:43:51,953 - INFO - QApplication initialized
+2025-02-25 18:43:51,953 - INFO - Initializing MainWindow
+2025-02-25 18:43:52,307 - INFO - All tabs initialized
+2025-02-25 18:43:52,332 - INFO - Main window displayed
+2025-02-25 18:43:52,332 - INFO - Qt Version: 
+2025-02-25 18:44:40,019 - INFO - Application starting at: 2025-02-25 18:44:40
+2025-02-25 18:44:40,019 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:44:40,019 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:44:40,171 - INFO - QApplication initialized
+2025-02-25 18:44:40,172 - INFO - Initializing MainWindow
+2025-02-25 18:44:40,520 - INFO - All tabs initialized
+2025-02-25 18:44:40,547 - INFO - Main window displayed
+2025-02-25 18:44:40,547 - INFO - Qt Version: 
+2025-02-25 18:44:56,583 - INFO - Application exiting with code: 0
+2025-02-25 18:48:13,144 - INFO - Application exiting with code: 0

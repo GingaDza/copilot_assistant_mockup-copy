@@ -1,0 +1,26 @@
+2025-02-25 18:13:22,228 - INFO - Application starting at: 2025-02-25 18:13:22
+2025-02-25 18:13:22,228 - INFO - Working directory: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,228 - INFO - Python version: 3.10.13 (main, Feb 21 2025, 05:55:22) [Clang 14.0.3 (clang-1403.0.22.14.1)]
+2025-02-25 18:13:22,387 - INFO - QApplication initialized
+2025-02-25 18:13:22,389 - DEBUG - Initializing DirectoryWatchTab
+2025-02-25 18:13:22,393 - DEBUG - QSplitter initialized
+2025-02-25 18:13:22,485 - DEBUG - Left widget added
+2025-02-25 18:13:22,489 - DEBUG - Right widget added
+2025-02-25 18:13:22,490 - DEBUG - DirectoryWatcher initialized for /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,491 - DEBUG - Updating directory list for path: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,491 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:22,492 - DEBUG - Updating tree view
+2025-02-25 18:13:22,499 - DEBUG - DirectoryWatchTab initialization complete
+2025-02-25 18:13:22,533 - INFO - Window displayed
+2025-02-25 18:13:22,533 - INFO - Qt Version: 
+2025-02-25 18:13:22,548 - DEBUG - Directory changed: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22,548 - DEBUG - Updating directory list for path: /Users/sanadatakeshi/Desktop/my_app2/copilot_assistant_mockup
+2025-02-25 18:13:22.594 python[4711:32391] +[IMKClient subclass]: chose IMKClient_Modern
+2025-02-25 18:13:22.594 python[4711:32391] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-02-25 18:13:27,250 - DEBUG - Checking for changes
+2025-02-25 18:13:27,250 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:32,035 - DEBUG - Checking for changes
+2025-02-25 18:13:32,036 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:37,034 - DEBUG - Checking for changes
+2025-02-25 18:13:37,035 - DEBUG - Getting directory snapshot
+2025-02-25 18:13:38,477 - INFO - Application exiting with code: 0

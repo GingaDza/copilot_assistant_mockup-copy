@@ -1,0 +1,6 @@
+Standard output test
+Standard error test
+2025-02-25 18:11:09,753 - DEBUG - Debug message test
+2025-02-25 18:11:09,753 - INFO - Info message test
+2025-02-25 18:11:09,753 - ERROR - Error message test
+Current time: 2025-02-25 18:11:09
